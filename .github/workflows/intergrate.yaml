@@ -37,6 +37,6 @@ jobs:
           path: dist/
           remote_path: /var/www/html/
           remote_host: ${{ secrets.SERVER_IP }}
-          remote_user: ubuntu
+          remote_user: deploy
           remote_key: ${{ secrets.SSH_KEY }}
 

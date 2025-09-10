@@ -1,5 +1,4 @@
 # Fundeka
-V1
 *Make Studying Effortless*
 
 Fundeka is your all-in-one learning companion designed to make studying simple, effective, and fun. Access high-quality lessons aligned with the official curriculum and choose how you learn—**read, listen, or watch**. Track your progress, stay motivated with streaks and fun celebrations, and get instant help from your AI-powered study companion.
